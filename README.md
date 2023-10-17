@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - Linux
 - Python
-- MySQL
+- SQL
 - Git & GitHub
 
 Let's explore the world of open-source and coding together!
