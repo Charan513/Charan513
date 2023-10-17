@@ -15,15 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Kandukuri Charan</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+  # Charan Kandukuri
 
-- 📫 How to reach me **charankandukuri242@gmail.com**
+🔭 Aspiring Software Engineer passionate about Linux and Python, actively seeking opportunities to kickstart my career in the Linux and Python domain.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/charankandukuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charankandukuri/" height="30" width="40" /></a><a href="https://www.hackerrank.com/charankandukuri3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="charankandukuri3" height="30" width="40" /></a>
-</p>
+🌱 Currently, I'm dedicated to enhancing my Linux skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📫 Let's connect and collaborate! You can reach out to me via: 
+
+[charankandukuri242@gmail.com](mailto:charankandukuri242@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/charankandukuri/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Check%20my%20Solutions-brightgreen?logo=hackerrank&style=flat)](https://www.hackerrank.com/charankandukuri3)
+
+### Languages and Tools
+
+- Linux
+- Python
+- MySQL
+- Git & GitHub
+
+Let's explore the world of open-source and coding together!
+
+
+
+
+
+
+
+
+
+
+
+
+
