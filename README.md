@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 - Linux
 - Python
+- Bash Scripting
 - SQL
 - Git & GitHub
 
