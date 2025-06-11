@@ -1,53 +1,45 @@
+# 👋 Hi, I'm Charan Kandukuri
 
+🚀 **Aspiring DevOps & Cloud Engineer** passionate about automation, cloud-native technologies, and open-source tools. I'm on a journey to build scalable infrastructure and deliver reliable software using modern DevOps practices.
 
-<!--
-**Charan513/Charan513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Currently enhancing my skills in **Linux**, **AWS**, and **DevOps**.
+- 🔧 Focused on mastering **Infrastructure as Code (IaC)**, **CI/CD pipelines**, and **container orchestration**.
+- 🌱 Actively working on personal projects using **Ansible**, **Terraform**, **Docker**, and **Kubernetes**.
+- 🤝 Open to collaborations on DevOps-related projects and automation tools.
 
-  # Charan Kandukuri
+---
 
-🔭 Aspiring Software Engineer passionate about Linux and Python, actively seeking opportunities to kickstart my career in the Linux and Python domain.
+### 🛠️ Tools & Technologies I Use
 
-🌱 Currently, I'm dedicated to enhancing my Linux skills.
+| Category             | Tools & Technologies                                         |
+|----------------------|--------------------------------------------------------------|
+| **Cloud & IaC**      | AWS, Terraform, Ansible                                      |
+| **Containers**       | Docker, Kubernetes, Helm                                     |
+| **CI/CD & VCS**      | Git, GitHub, GitHub Actions                                  |
+| **Scripting**        | Bash, Python                                                 |
+| **OS**               | Linux (RHEL, CentOS)                                         |
+| **Other Skills**     | YAML, Shell Scripting, Git Branching Strategies              |
 
-📫 Let's connect and collaborate! You can reach out to me via: 
+---
 
-[charankandukuri242@gmail.com](mailto:charankandukuri242@gmail.com)
+### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/charankandukuri/)
+- 📧 [charankandukuri242@gmail.com](mailto:charankandukuri242@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/charankandukuri/)
+- 💻 [GitHub](https://github.com/Charan513)
+- 👨‍💻 [HackerRank](https://www.hackerrank.com/charankandukuri3)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Check%20my%20Solutions-brightgreen?logo=hackerrank&style=flat)](https://www.hackerrank.com/charankandukuri3)
+---
 
-### Languages and Tools
+### 🔍 Let's Connect and Code Together
 
-- Linux
-- Python
-- Bash Scripting
-- SQL
-- Git & GitHub
+💬 Whether it's about DevOps, cloud, or automation — feel free to reach out and collaborate.  
+Let's explore the world of **open-source**, **cloud**, and **infrastructure engineering** together!
 
-Let's explore the world of open-source and coding together!
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
+![DevOps Banner](https://github.com/Charan513/Charan513/assets/devops-banner.png) <!-- Optional image/banner -->
