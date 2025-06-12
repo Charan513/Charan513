@@ -1,5 +1,7 @@
 
-![image](https://github.com/user-attachments/assets/49412c82-3671-4ba2-94ea-d0a5a74c9ea3)
+<p align="center">
+  <img src="assets/charan_banner_animated.gif" alt="Charan Kandukuri Banner Animated" width="65%" />
+</p>
 
 # 👋 Hi, I'm Charan Kandukuri
 
@@ -43,9 +45,7 @@
 💬 Whether it's about DevOps, cloud, or automation — feel free to reach out and collaborate.  
 Let's explore the world of **open-source**, **cloud**, and **infrastructure engineering** together!
 
----
 
-![DevOps Banner](https://github.com/Charan513/Charan513/assets/devops-banner.png) <!-- Optional image/banner -->
 
 
 
