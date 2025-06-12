@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/49412c82-3671-4ba2-94ea-d0a5a74c9ea3)
+
 # 👋 Hi, I'm Charan Kandukuri
 
 🚀 **Aspiring DevOps & Cloud Engineer** passionate about automation, cloud-native technologies, and open-source tools. I'm on a journey to build scalable infrastructure and deliver reliable software using modern DevOps practices.
@@ -43,3 +46,31 @@ Let's explore the world of **open-source**, **cloud**, and **infrastructure engi
 ---
 
 ![DevOps Banner](https://github.com/Charan513/Charan513/assets/devops-banner.png) <!-- Optional image/banner -->
+
+
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charan513&show_icons=true&theme=react&hide_border=true" alt="Charan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan513&theme=react&hide_border=true" alt="Charan's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan513&layout=compact&theme=react&hide_border=true" alt="Charan's Top Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charan513&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" alt="Profile views"/>
+</p>
+
+
+---
+
+
